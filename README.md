@@ -13,10 +13,13 @@ More to come...
 
 
 
-### thoughts on compiling
+### Thoughts on compiling
 
 while interpreted well, why bother to compile?  for speed?
 
 backend options: java c rust? or "No, thanks"?
 
+### source
+
+source code and binary will released [here](https://github.com/neoedmund/textfrog)
 
